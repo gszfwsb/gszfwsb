@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/gszfwsb/">
   <img align="left" alt="Steven's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.zhihu.com/people/hiterwsb">
-  <img align="left" alt="Steven's Zhihu" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/zhihu.svg" />
-</a>
 
 - 🍻 Junior at  [HIT](http://www.hit.edu.cn/), BSc in Software Engineering
 - ⚡ Research areas: Computer Vision and Machine Learning. Specifically: 
