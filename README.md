@@ -1,6 +1,4 @@
-### Hey, I'm Steven Wang👋 <a href="https://www.linkedin.com/in/gszfwsb/">
-  <img align="left" alt="Steven's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### Hey, I'm Steven Wang👋 
 - 🍻 Junior at  [HIT](http://www.hit.edu.cn/), BSc in Software Engineering
 - ⚡ Research areas: Computer Vision and Machine Learning. Specifically: 
     - eXplainable AI(XAI)
@@ -11,3 +9,6 @@
 [![gszfwsb's github data](https://github-readme-stats.vercel.app/api?username=gszfwsb)]()
 <h6>Thanks for visiting my Github!</h6>
 
+<a href="https://www.linkedin.com/in/gszfwsb/">
+  <img align="left" alt="Steven's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
