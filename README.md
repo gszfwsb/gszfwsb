@@ -12,8 +12,10 @@
 <h6>Thanks for visiting my Github!</h6>
 
 <a href="https://www.linkedin.com/in/gszfwsb/">
-  <img align="left" alt="Steven's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+  <img align="left" alt="Steven's LinkedIN" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/linkedin.svg" /></a>
 
 <a href="https://www.zhihu.com/people/hiterwsb">
-  <img align="left" alt="Steven's LinkedIN" width="22px" src="https://github.com/gszfwsb/social-icons/blob/main/social/zhihu.svg" /></a>
+  <img align="left" alt="Steven's Zhihu" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/zhihu.svg" /></a>
 
+<a href="mailto:hiterwsb@gmail.com">
+  <img align="left" alt="Steven's Gmail" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/gmail.svg" /></a>
