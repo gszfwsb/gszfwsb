@@ -1,7 +1,7 @@
 ### Hey, I'm Steven Wang👋 
 - 🍻 Junior at  [HIT](http://www.hit.edu.cn/), BSc in Software Engineering, GPA 3.96/4.00 (ranking 1%)
-- :running: Internship at THU, SJTU (John Hopcroft Center) and University of Adelaide
-- :star: Visiting student at Harvard and MIT
+- :running: Internship at [THU](http://www.dess.tsinghua.edu.cn/), [SJTU (John Hopcroft Center)](http://jhc.sjtu.edu.cn/) and [University of Adelaide](https://www.roboticvision.org/)
+- :star: Visiting student at [Harvard](https://www.harvard.edu/) and [MIT](https://www.mit.edu/)
 - ⚡ Research areas: Computer Vision and Machine Learning. Specifically: 
     - eXplainable AI(XAI)
     - cross-modal learning(CML) and 
