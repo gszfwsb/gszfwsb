@@ -6,7 +6,7 @@
     - eXplainable AI(XAI)
     - cross-modal learning(CML) and 
     - self-supervise learning(SSL)
-- :smile: Click here to download my [Resume](https://gszfwsb.com/files/ShaoboWang.pdf)!
+- :smile: Click [here](https://gszfwsb.com/files/ShaoboWang.pdf) to download my Resume!
 - :point_right: For detailed information, please check my personal website: [gszfwsb](https://gszfwsb.com/)(to be updated soon...)
 
 [![gszfwsb's github data](https://github-readme-stats.vercel.app/api?username=gszfwsb&show_icons=true&theme=vue&layout=compact&hide=prs,issues)]()
