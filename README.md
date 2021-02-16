@@ -7,7 +7,7 @@
     - cross-modal learning(CML) and 
     - self-supervise learning(SSL)
 - :smile: Click here to download my [Resume](https://gszfwsb.com/files/ShaoboWang.pdf)!
-- :highlight: For detailed information, please check my personal website: [gszfwsb](https://gszfwsb.com/)(to be updated soon...)
+- :point_right: For detailed information, please check my personal website: [gszfwsb](https://gszfwsb.com/)(to be updated soon...)
 
 [![gszfwsb's github data](https://github-readme-stats.vercel.app/api?username=gszfwsb&show_icons=true&theme=vue&layout=compact&hide=prs,issues)]()
 <h6>Thanks for visiting my Github!</h6>
