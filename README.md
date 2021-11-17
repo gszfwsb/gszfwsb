@@ -9,3 +9,10 @@
 
 <a href="mailto:hiterwsb@gmail.com">
   <img align="left" alt="Steven's Gmail" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/gmail.svg" /></a>
+
+<a href="https://twitter.com/ShaoboWang6">
+  <img align="left" alt="Steven's Twitter" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/twitter.svg" /></a>
+  
+<a href="https://www.zhihu.com/people/hiterwsb">
+  <img align="left" alt="Steven's Zhihu" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/zhihu.svg" /></a>
+ 
