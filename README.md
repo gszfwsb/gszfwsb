@@ -1,8 +1,10 @@
-### Hey, I'm Steven Wang👋 
-🍻 I am a junior student at [HIT](http://www.hit.edu.cn/), B-Eng in Software Engineering, [Faculty of Computing](http://encs.hit.edu.cn/) GPA 3.96/4.00 (ranking 1%). For more info, plz check my website: [Steven Wang's Homepage](https://gszfwsb.github.io/).
+### Hey, I'm Steven Wang👋 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gszfwsb.github.io)
+🍻 I am now a 4-th year student at [HIT](http://en.hit.edu.cn/) and an incoming master student at [SJTU](https://en.sjtu.edu.cn/)
+👉 My research interests range across Explainable AI in machine learning(deep learning), Multi-modal Learning and Computer Vision.
+🚀 I’m always open for academic collaboration and you can find more about me via my personal website [Steven Wang's Homepage](https://gszfwsb.github.io/).
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gszfwsb&show_icons=true&theme=vue&layout=compact&hide=prs,issues"/>
-<h6>Thanks for visiting my Github!</h6>
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=gszfwsb&show_icons=true&theme=vue&layout=compact&hide=prs,issues"/>
+<h6>Thanks for visiting my Github!</h6> -->
 
 <a href="https://www.linkedin.com/in/gszfwsb/">
   <img align="left" alt="Steven's LinkedIN" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/linkedin.svg" /></a>
