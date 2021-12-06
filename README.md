@@ -18,5 +18,5 @@
   <img align="left" alt="Steven's Twitter" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/twitter.svg" /></a>
   
 <a href="https://www.zhihu.com/people/hiterwsb">
-  <img align="left" alt="Steven's Zhihu" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/scholar.svg" /></a>
+  <img align="left" alt="Steven's Google Scholar" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/scholar.svg" /></a>
  
