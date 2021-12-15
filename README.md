@@ -9,7 +9,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gszfwsb&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </p>
  
-<h3 align="left">You can reach/find me in the following ways:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gszfwsb/">
     <img align="left" alt="Steven's LinkedIN" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/linkedin.svg" width="80" height="40" /></a>
