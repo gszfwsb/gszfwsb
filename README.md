@@ -54,7 +54,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
             height="40" />
     </a>
-
     <a href="https://pytorch.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
     </a>
