@@ -51,62 +51,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" />
     </a>
-    <a href="https://gulpjs.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp"
-            width="40" height="40" />
-    </a>
-    <a href="https://babeljs.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-    </a>
-    <a href="https://webpack.js.org" target="_blank">
-        <img src="https://camo.githubusercontent.com/b0573f87b0786eda63c76f2a9a1358e7a653783c25c03c6c908a00b70c713d78/68747470733a2f2f7765627061636b2e6a732e6f72672f6173736574732f69636f6e2d7371756172652d6269672e737667"
-            alt="webpack" width="40" height="40" />
-    </a>
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" />
     </a>
    <a href="https://www.qt.io/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
-            height="40" />
-    </a>
-</p>
-<!-- <h4 align="left">Back End and Database:</h4> -->
-<p align="left">
-    <a href="https://www.nginx.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
-            width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="40" height="40" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
-            height="40" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-            alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://hadoop.apache.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40"
             height="40" />
     </a>
 </p>
