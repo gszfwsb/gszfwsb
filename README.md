@@ -5,9 +5,9 @@
 
 🚀 I’m always open for academic collaboration and you can find more about me via my personal website [Steven Wang's Homepage](https://gszfwsb.github.io/).
 
-<p align="left">
+<!-- <p align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gszfwsb&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-</p>
+</p> -->
  
 <p align="left">
   <a href="https://www.linkedin.com/in/gszfwsb/">
