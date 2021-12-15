@@ -61,6 +61,9 @@
     </a>
 </p>
 <p align="left">
+    <a href="https://pytorch.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
+    </a>
     <a href="https://numpy.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="numpy"
             width="84" height="40" />
@@ -76,9 +79,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
             width="40" height="40" />
     </a>
-    <a href="https://pytorch.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-    </a>
     <a href="https://opencv.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
     </a>
@@ -86,7 +86,7 @@
 </p>
 <!-- <img align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmzfpc&layout=compact&langs_count=10&show_icons=true&locale=en"
-        alt="zmzfpc" /> -->
+        alt="gszfwsb" /> -->
 
 
 
