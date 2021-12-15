@@ -12,7 +12,7 @@
 <h3 align="left">You can reach/find me in the following ways:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gszfwsb/">
-    <img align="left" alt="Steven's LinkedIN" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/linkedin.svg" width="40" height="40" /></a>
+    <img align="left" alt="Steven's LinkedIN" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/linkedin.svg" width="80" height="40" /></a>
 
   <a href="mailto:hiterwsb@gmail.com">
     <img align="left" alt="Steven's Gmail" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/gmail.svg" width="40" height="40" /></a>
