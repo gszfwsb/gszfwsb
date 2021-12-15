@@ -85,20 +85,20 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmzfpc&layout=compact&langs_count=10&show_icons=true&locale=en"
         alt="gszfwsb" /> -->
 
-
-
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=gszfwsb&show_icons=true&theme=vue&layout=compact&hide=prs,issues"/>
 <h6>Thanks for visiting my Github!</h6> -->
 
+<h3 align="left">You can reach/find me in the following ways</h3>
+
 <a href="https://www.linkedin.com/in/gszfwsb/">
-  <img align="left" alt="Steven's LinkedIN" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/linkedin.svg" /></a>
+  <img align="left" alt="Steven's LinkedIN" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/linkedin.svg" width="40" height="40"/></a>
 
 <a href="mailto:hiterwsb@gmail.com">
-  <img align="left" alt="Steven's Gmail" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/gmail.svg" /></a>
+  <img align="left" alt="Steven's Gmail" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/gmail.svg" width="40" height="40"/></a>
 
 <a href="https://twitter.com/ShaoboWang6">
-  <img align="left" alt="Steven's Twitter" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/twitter.svg" /></a>
+  <img align="left" alt="Steven's Twitter" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/twitter.svg" width="40" height="40"/></a>
   
 <a href="https://scholar.google.com/citations?user=viFDWtwAAAAJ&hl=zh-CN">
-  <img align="left" alt="Steven's Google Scholar" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/scholar.svg" /></a>
+  <img align="left" alt="Steven's Google Scholar" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/scholar.svg" width="40" height="40"/></a>
  
