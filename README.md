@@ -23,8 +23,8 @@
     <img align="left" alt="Steven's Google Scholar" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/scholar.svg" width="40" height="40"/></a>
 </p> -->
 
-<h3 align="left">Main languages and tools:</h3>
-<!-- <p align="left">
+<!-- <h3 align="left">Main languages and tools:</h3>
+<p align="left">
 <!--     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" />
