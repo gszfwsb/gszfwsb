@@ -24,7 +24,7 @@
 </p> -->
 
 <h3 align="left">Main languages and tools:</h3>
-<p align="left">
+<!-- <p align="left">
 <!--     <a href="https://www.cprogramming.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" />
@@ -86,7 +86,7 @@
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
     </a> -->
 
-</p>
+</p> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gszfwsb)](https://github.com/ryo-ma/github-profile-trophy)
 
