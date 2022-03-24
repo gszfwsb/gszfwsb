@@ -9,7 +9,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gszfwsb&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 </p> -->
  
-<p align="left">
+<!-- <p align="left">
   <a href="https://www.linkedin.com/in/gszfwsb/">
     <img align="left" alt="Steven's LinkedIN" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/linkedin.svg" width="40" height="40"/></a>
 
@@ -21,7 +21,7 @@
 
   <a href="https://scholar.google.com/citations?user=viFDWtwAAAAJ&hl=zh-CN">
     <img align="left" alt="Steven's Google Scholar" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/scholar.svg" width="40" height="40"/></a>
-</p>
+</p> -->
 
 <h3 align="left">Main languages and tools:</h3>
 <p align="left">
