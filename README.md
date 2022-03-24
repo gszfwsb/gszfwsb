@@ -22,7 +22,9 @@
   <a href="https://scholar.google.com/citations?user=viFDWtwAAAAJ&hl=zh-CN">
     <img align="left" alt="Steven's Google Scholar" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/scholar.svg" width="40" height="40"/></a>
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=gszfwsb)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <p align="left">
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=gszfwsb)" />
+</p> -->
 <br />
 <h3 align="left">Main languages and tools:</h3>
 <p align="left">
