@@ -22,6 +22,7 @@
   <a href="https://scholar.google.com/citations?user=viFDWtwAAAAJ&hl=zh-CN">
     <img align="left" alt="Steven's Google Scholar" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/scholar.svg" width="40" height="40"/></a>
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=gszfwsb)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 <h3 align="left">Main languages and tools:</h3>
 <p align="left">
@@ -67,21 +68,21 @@
     <a href="https://pytorch.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
     </a>
-    <a href="https://numpy.org/" target="_blank">
+<!--     <a href="https://numpy.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="numpy"
-            width="84" height="40" />
-    </a>
+            width="84" height="40" /> -->
+<!--     </a>
     <a href="https://matplotlib.org/" target="_blank">
         <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="84" height="40" />
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
+    </a> -->
+<!--     <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667"
             alt="pandas" width="84" height="40" />
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank">
+    </a> -->
+<!--     <a href="https://scikit-learn.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
             width="40" height="40" />
-    </a>
+    </a> -->
 <!--     <a href="https://opencv.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
     </a> -->
