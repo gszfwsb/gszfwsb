@@ -23,8 +23,6 @@
     <img align="left" alt="Steven's Google Scholar" width="25px" src="https://github.com/gszfwsb/social-icons/blob/main/social/scholar.svg" width="40" height="40"/></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gszfwsb)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Main languages and tools:</h3>
 <p align="left">
 <!--     <a href="https://www.cprogramming.com/" target="_blank">
@@ -89,6 +87,8 @@
     </a> -->
 
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gszfwsb)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
