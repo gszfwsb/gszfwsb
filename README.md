@@ -15,11 +15,11 @@
   <a href="https://scholar.google.com/citations?user=viFDWtwAAAAJ"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
   <a href="mailto:181110315@stu.hit.edu"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
   <a href="https://www.linkedin.cn/injobs/in/gszfwsb/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"> </a>
-  <a href="https://twitter.com/ShaoboWang6"> <img src="https://img.shields.io/twitter/follow/ShaoboWang6?style=plastic"  height="25px" alt="Steven Wang's Twitter"> </a>
+  <a href="https://twitter.com/ShaoboWang6"> <img src="https://img.shields.io/twitter/follow/ShaoboWang6?color=%23f&logo=twitter&style=plastic"  height="25px" alt="Steven Wang's Twitter"> </a>
 
 <!--   <a href="https://www.zhihu.com/people/gszfwsb"><img src="https://img.shields.io/badge/知乎-0079FF.svg?style=plastic&logo=zhihu&logoColor=white" height="25px" alt="知乎"></a>
-  <a href="https://hangzhang.org/cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a>
-</p>  -->
+  <a href="https://hangzhang.org/cvHangZhang/cvHangZhang.pdf"> <img src="https://img.shields.io/badge/-CV-black?style=plastic" height="25px"> </a> -->
+</p> 
 
 <!-- <table width="100%" border="0" cellspacing="15" cellpadding="0">
 <tbody>
