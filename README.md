@@ -1,5 +1,5 @@
 # Hey, I'm Steven Wang👋
-💻 I'm now a CS MPhil student in [SJTU](https://en.sjtu.edu.cn/) from 2022, advised by [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN). I am the member of [ThinkLab](https://thinklab.sjtu.edu.cn/). 
+💻 I'm now a CS MPhil student in [SJTU](https://en.sjtu.edu.cn/) from 2022, advised by [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN). I am the member of [ThinkLab](https://thinklab.sjtu.edu.cn/).    
 🍻 I got my bachelor degree from School of Software, [HIT](http://en.hit.edu.cn/).    
 📘 Previously, I once did research at [IIIS, THU](https://iiis.tsinghua.edu.cn/en/) and [JHC, SJTU](https://jhc.sjtu.edu.cn/).  Thanks to all the collaborators and instructors.  
 👉 My research interests range across Autonomous Driving, Interpretability in machine learning, Multi-modal Learning and Computer Vision.  
