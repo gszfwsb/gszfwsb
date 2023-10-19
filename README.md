@@ -1,8 +1,8 @@
 # Hey, I'm Steven Wang👋
 💻 I'm now a CS MPhil student in [SJTU](https://en.sjtu.edu.cn/) from 2022, advised by [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN). I am the member of [ThinkLab](https://thinklab.sjtu.edu.cn/).    
-🍻 I got my bachelor degree from School of Software, [HIT](http://en.hit.edu.cn/).
-👉 My research interests range across Autonomous Driving, Interpretability in machine learning, Multi-modal Learning and Computer Vision.  
-✨ I love playing chess, piano, guitar, singing, reading and watching movies. I was a semi-professional chess player in my teenage years.  
+🍻 I got my bachelor degree from School of Software, [HIT](http://en.hit.edu.cn/).    
+👉 My research interests range across Autonomous Driving, Interpretability in machine learning, Multi-modal Learning and Computer Vision.    
+✨ I love playing chess, piano, guitar, singing, reading and watching movies. I was a semi-professional chess player in my teenage years.    
 <!-- 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gszfwsb&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /></p> -->
