@@ -1,4 +1,4 @@
-# Hey, I'm Steven Wang👋
+# Hey, I'm Shaobo (Steven) Wang👋
 - 👉 CS M.Phil student in [SJTU](https://en.sjtu.edu.cn/) , advised by [Prof. Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN), member of [ThinkLab](https://thinklab.sjtu.edu.cn/).      
 - ✨ Exploring practical deep learning best practices from theoretical views.  
 <p align="center">
